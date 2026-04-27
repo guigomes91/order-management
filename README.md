@@ -4,7 +4,7 @@
 API para gerenciamento de pedidos, simulando regras reais de negócio.
 
 ## 🚀 Tecnologias
-- Java 17
+- Java 21
 - Spring Boot
 - PostgreSQL
 - Docker
