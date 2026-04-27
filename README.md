@@ -17,8 +17,8 @@ docker-compose up -d
 ```
 
 ## 📚 Endpoints
-POST /orders
-GET /products
+- POST /orders
+- GET /products
 
 ## 🧠 Conceitos aplicados
 - Separação por camadas
