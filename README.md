@@ -8,6 +8,8 @@ API para gerenciamento de pedidos, simulando regras reais de negócio.
 - Spring Boot
 - PostgreSQL
 - Docker
+- Clean Architecture
+- Design Patterns
 
 ## ▶️ Como rodar
 
